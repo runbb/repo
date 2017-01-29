@@ -1,0 +1,13 @@
+Package: keyboardaccio_2.3.3
+Version: 2.3.3
+Architecture: iphoneos-arm
+Maintainer: xlmnxp <private@email.com>
+Filename: ./keyboardaccio_2.3.3.deb
+Size: 5894
+MD5sum: a3710db283a4bd77db43a42a4382670f
+SHA1: fbeebecb93dea25b94e4a8de9296ab1b382569f5
+SHA256: 0c502f55422ef3257edc87e8db9092f92acd0e480c7d9dcfd99d9d709767c435
+Section: Tweaks
+Description: Quick keyboard switcher
+Author: Hiraku <private@email.com>
+Name: Keyboard Accio
